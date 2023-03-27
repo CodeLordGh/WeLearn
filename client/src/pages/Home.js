@@ -11,8 +11,8 @@ function homePage() {
         <h1>Share your coding experience with friends</h1>
           <p>LetsCode lets you connect with your friends</p>
           <LinkContainer to='/chat'>
-            <Button variant='success'>Get Started
-              <i className='fas fa-comments home-message-icon'></i>
+            <Button variant='success'>Get Started 
+            <i className='fas fa-comments home-message-icon'></i>
             </Button>
           </LinkContainer>
         </div>
